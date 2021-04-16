@@ -1,0 +1,14 @@
+{
+    "name": "developer/test",
+    "authors": [
+        {
+            "name": "fulviocanducci",
+            "email": "fulviocanducci@hotmail.com"
+        }
+    ],
+    "require": {
+        "defuse/php-encryption": "^2.3",
+        "vlucas/phpdotenv": "^5.3",
+        "facebook/graph-sdk": "^5.1"
+    }
+}
